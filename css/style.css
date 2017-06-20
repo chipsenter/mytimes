@@ -137,3 +137,21 @@ p {
   flex-direction: column;
   width: 300px;
 }
+.news-bites h3 {
+  margin-bottom: 41px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+.news-bites .bite {
+  color: Dimgray;
+  font-size: 12px;
+  display: block;
+  padding-top: 11px;
+  padding-right: 20px;
+  padding-bottom: 11px;
+  padding-left: 20px;
+  border-bottom: 1px solid black;
+  background-color: WhiteSmoke;
+  font-family: Verdana cursive;
+}
